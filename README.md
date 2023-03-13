@@ -7,6 +7,11 @@ Standard-tier developer working on interesting things!
   * Rust
   * Search and SQL
   * ZFS
+  * Mastodon
+  * A bit of .NET and Java
+  * Docker/K8s
+  * NixOS
+  * Virtual Machines
 
 # 📫 How to reach me ...
 

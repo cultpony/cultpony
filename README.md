@@ -15,4 +15,4 @@ Standard-tier developer working on interesting things!
 
 # 📫 How to reach me ...
 
-Contact me over Github, IRC (on Libera.chat as cultpony), Mastodon (@cult@pony.social) or via the Ponydev Discord.
+Contact me over Github, IRC (on Libera.chat as cultpony), Mastodon ([@cult@pony.social](https://pony.social/@cult)) or via the Ponydev Discord.
